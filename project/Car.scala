@@ -19,6 +19,7 @@ class Car
     {
       // Class object
       var t1=10;
+      var t2=12;
       var obj = new Car();
       obj.Display();
     }
