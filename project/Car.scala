@@ -18,6 +18,7 @@ class Car
     def main(args: Array[String])
     {
       // Class object
+      var t1=10;
       var obj = new Car();
       obj.Display();
     }
